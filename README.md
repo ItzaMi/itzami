@@ -8,4 +8,4 @@ I'm a **self taught web developer with a Master's Degree in Psychology**
 
 - ⚒️ I'm currently creating create a 🖊️ blog 🖊️ and working on my forever dead [text-based medieval rpg game](https://github.com/ItzaMi/medieval-adventure-game)
 
-Connect with me on [Twitter](https://twitter.com/HeyItzaMi)
+[![](https://img.shields.io/badge/ItzaMi-blue?logo=twitter&style=flat-square)](https://twitter.com/HeyItzaMi)
