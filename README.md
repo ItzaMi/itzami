@@ -6,7 +6,8 @@ I'm a **self taught web developer with a Master's Degree in Psychology**
 
 - 🎨 I also have a knack for design so check out my [Dribbble account](https://dribbble.com/ItzaMi)
 
-- ⚒️ I'm currently creating create a 🖊️ blog 🖊️ and working on my forever dead [text-based medieval rpg game](https://github.com/ItzaMi/medieval-adventure-game)
+- 📚 I have a pretty cool blog at [itzami.com](https://itzami.com)
+
 
 #### My latest blog posts on [itzami.com](https://itzami.com)
 
