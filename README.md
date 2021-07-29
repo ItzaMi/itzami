@@ -8,13 +8,19 @@ I'm a **self taught web developer with a Master's Degree in Psychology**
 
 - ⚒️ I'm currently creating create a 🖊️ blog 🖊️ and working on my forever dead [text-based medieval rpg game](https://github.com/ItzaMi/medieval-adventure-game)
 
-#### My latest blog posts
+#### My latest blog posts on [itzami.com](https://itzami.com)
 
 - ✍️ [How I use Notion as a developer](https://itzami.com/blog/how-i-use-notion-as-a-developer/)
 
 - ✍️ [Boost your CSS animations with Intersection Observer API](https://itzami.com/blog/boost-your-css-animations-with-intersection-observer-api/)
 
 - ✍️ [Important tips for a self-taught developer](https://coletiv.com/blog/important-tips-self-taught-developer/)
+
+
+#### Guest blogging ✍️
+
+- [Getting Started with the Notion API and Its JavaScript SDK | SitePoint](https://www.sitepoint.com/notion-api-javascript-sdk/)
+
 
 #### Check out some of my work
 
