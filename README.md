@@ -17,9 +17,9 @@ I'm a **self taught web developer with a Master's Degree in Psychology**
 - ✍️ [Important tips for a self-taught developer](https://coletiv.com/blog/important-tips-self-taught-developer/)
 
 
-#### Guest blogging ✍️
+#### Guest blogging 🥸
 
-- [Getting Started with the Notion API and Its JavaScript SDK | SitePoint](https://www.sitepoint.com/notion-api-javascript-sdk/)
+- ✍️ [Getting Started with the Notion API and Its JavaScript SDK | SitePoint](https://www.sitepoint.com/notion-api-javascript-sdk/)
 
 
 #### Check out some of my work
