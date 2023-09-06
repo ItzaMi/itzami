@@ -2,8 +2,6 @@
 
 I'm a **self taught web developer with a Master's Degree in Psychology**
 
-- 🧑‍💻 Working at [Significa](https://significa.co/) as a **front end developer**
-
 - 👀 Svelte enthusiast
 
 - 🧠 Currently learning game dev with Godot 🤖 and pixel art 🧑‍🎨
